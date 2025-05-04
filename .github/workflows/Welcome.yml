@@ -14,14 +14,12 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           pr-message: |
-            👋 Hey there! Welcome to the project! 🚀
+            👋 **Hello Contributor!** 🎉
 
-            Thanks for opening your very first pull request! 🎉  
-            Your contribution means a lot to us. 🌟
+            Thank you so much for opening your **first pull request**!  
+            We really appreciate your time, effort, and contribution.
 
-            We're really happy to have you here.  
-            If you need help or have questions, don't hesitate to ask.
+            Keep rocking 🚀 and keep contributing!  
+            **Together, we build awesome things. 💪**
 
-            **Keep contributing and keep shining! 💡**
-
-        
+            — Team ❤️
